@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8fb1b8-6dda-4930-a9ea-a4d586e4f433" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test/Tests.cs" afterPath="$PROJECT_DIR$/Test/BinarySearchTreeFinderTests.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/bin/Debug/Test.dll" afterPath="$PROJECT_DIR$/Test/bin/Debug/Test.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/bin/Debug/Test.dll.mdb" afterPath="$PROJECT_DIR$/Test/bin/Debug/Test.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/obj/Debug/Test.dll" afterPath="$PROJECT_DIR$/Test/obj/Debug/Test.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/obj/Debug/Test.dll.mdb" afterPath="$PROJECT_DIR$/Test/obj/Debug/Test.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/Test.csproj" afterPath="$PROJECT_DIR$/Test/Test.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +19,8 @@
       <file leaf-file-name="BinarySearchTreeFinderTests.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/BinarySearchTreeFinderTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="-527">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <marker date="1490742712000" expanded="true" signature="6:70" ph="..." />
                 <marker date="1490742712000" expanded="true" signature="86:4264" ph="{...}" />
@@ -223,12 +218,12 @@
       <updated>1490738019898</updated>
       <workItem from="1490738022074" duration="2930000" />
       <workItem from="1490741166109" duration="336000" />
-      <workItem from="1490741527765" duration="1301000" />
+      <workItem from="1490741527765" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4567000" />
+    <option name="totallyTimeSpent" value="5185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,7 +244,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -391,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/BinarySearchTreeFinderTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="-527">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <marker date="1490742712000" expanded="true" signature="6:70" ph="..." />
             <marker date="1490742712000" expanded="true" signature="86:4264" ph="{...}" />
