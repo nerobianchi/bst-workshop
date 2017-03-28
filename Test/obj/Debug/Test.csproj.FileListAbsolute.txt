@@ -1,0 +1,17 @@
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/Test.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/Test.dll.mdb
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.abstractions.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.assert.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.core.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.execution.desktop.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.abstractions.xml
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.assert.xml
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.core.xml
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/xunit.execution.desktop.xml
+/Users/erdem/src/dotnet/Test/Test/obj/Debug/Test.csprojResolveAssemblyReference.cache
+/Users/erdem/src/dotnet/Test/Test/obj/Debug/Test.dll
+/Users/erdem/src/dotnet/Test/Test/obj/Debug/Test.dll.mdb
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/FluentAssertions.Core.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/FluentAssertions.dll
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/FluentAssertions.xml
+/Users/erdem/src/dotnet/Test/Test/bin/Debug/FluentAssertions.Core.xml
